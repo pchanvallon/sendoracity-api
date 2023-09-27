@@ -18,7 +18,7 @@ services:
   api:
     container_name: api
     build: ./api
-    image: sendorapi-dotnet
+    image: sendoracity-api
     ports:
       - 8080:80
     depends_on:
