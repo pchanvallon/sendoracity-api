@@ -1,7 +1,7 @@
 # Sendora City API
 
-[![CI](https://github.com/pchanvallon/sendoracity-api/workflows/CI/badge.svg)](https://github.com/pchanvallon/sendoracity-api/actions/workflows/CI.yml)
-[![CD](https://github.com/pchanvallon/sendoracity-api/workflows/CD/badge.svg)](https://github.com/pchanvallon/sendoracity-api/actions/workflows/CD.yml)
+[![CI ⚙️](https://github.com/pchanvallon/sendoracity-api/actions/workflows/CI.yml/badge.svg)](https://github.com/pchanvallon/sendoracity-api/actions/workflows/CI.yml)
+[![CD 🚀](https://github.com/pchanvallon/sendoracity-api/actions/workflows/CD.yml/badge.svg)](https://github.com/pchanvallon/sendoracity-api/actions/workflows/CD.yml)
 
 Sample .NET Core API that creates city, houses and stores using a PostgresSQL database.
 
